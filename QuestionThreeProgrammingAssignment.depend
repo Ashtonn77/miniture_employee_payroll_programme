@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1585336315 source:c:\users\ashto\desktop\questionthreeprogrammingassignment\main.cpp
+	<iostream>
+	<vector>
+	"Emp.h"
+	"Salary.h"
+
+1585336628 source:c:\users\ashto\desktop\questionthreeprogrammingassignment\emp.cpp
+	<iostream>
+	<vector>
+	"Emp.h"
+	"Salary.h"
+
+1585336294 c:\users\ashto\desktop\questionthreeprogrammingassignment\emp.h
+	<iostream>
+	<vector>
+
+1585336627 source:c:\users\ashto\desktop\questionthreeprogrammingassignment\salary.cpp
+	<iostream>
+	<vector>
+	"Emp.h"
+	"Salary.h"
+
+1585335543 c:\users\ashto\desktop\questionthreeprogrammingassignment\salary.h
+
+1585394547 source:c:\users\ashto\desktop\campusnew\newquestionthreeprogrammingassignment\emp.cpp
+	<iostream>
+	<vector>
+	<limits>
+	"Emp.h"
+	"Salary.h"
+
+1585394869 c:\users\ashto\desktop\campusnew\newquestionthreeprogrammingassignment\emp.h
+	<iostream>
+	<vector>
+
+1585395018 c:\users\ashto\desktop\campusnew\newquestionthreeprogrammingassignment\salary.h
+
+1585394999 source:c:\users\ashto\desktop\campusnew\newquestionthreeprogrammingassignment\salary.cpp
+	<iostream>
+	<vector>
+	"Emp.h"
+	"Salary.h"
+
+1585394993 source:c:\users\ashto\desktop\campusnew\newquestionthreeprogrammingassignment\main.cpp
+	<iostream>
+	<vector>
+	"Emp.h"
+	"Salary.h"
+
